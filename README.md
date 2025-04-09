@@ -16,3 +16,11 @@ The landscape depicts an early Earth era lava-filled hellscape and then fades in
 - 1 - Toggle Scene
 - 2 - Toggle Split-Screen
 - 3 - Toggle Guided Tour
+
+## How To Run
+
+1. Unzip all files
+2. Open solution in Visual Studio (at least version 2022)
+3. Open the GraphicsTutorials.sln solution file and set as startup project
+4. Ensure nclgl is set as a dependency of GraphicsTutorials
+5. Press the run button
